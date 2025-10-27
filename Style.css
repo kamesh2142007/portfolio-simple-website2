@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+  font-family: "Young Serif", serif;
+}
+.container{
+    padding: 50px;
+    margin: 20px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    
+}
+.section-one__{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.section-one__name{
+font-size: 60px;
+}
+.section-one__role{
+    font-size: 38px;
+    margin-top: 10px;
+}
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 20px;
+}
+.section-two__decr,.section-three__decr,.section-four__decr,.section-five__decr {
+    margin-top: 20px;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+ .section-five__title{
+    color: skyblue;
+}
+.section-three li,.section-four li{
+    list-style: none;
+}
+.section-three{
+    background-color: blue;
+    color: black;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.section-four{
+    background-color: #FE7517;
+    color: black;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contect-form{
+    margin: 20px;
+}
+.contect-form__input,.contect-form__textarea,.contect-form__submit{
+     margin-top: 10px;
+}
+.contect-form__input{
+    padding: 10px;
+    border: none;
+    border-radius: solid;
+    border-bottom: solid black 1px;
+}
+.contect-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contect-form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FE7517;
+    color: black;
+    border: none;
+   
+}
+
+
+
+
